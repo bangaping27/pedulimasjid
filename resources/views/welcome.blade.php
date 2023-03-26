@@ -11,7 +11,6 @@
     <title>Hello, world!</title>
   </head>
   <body>
-//buat navbar
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">Navbar</a>
