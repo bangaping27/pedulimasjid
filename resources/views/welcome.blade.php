@@ -275,35 +275,34 @@ img {
                             <a href="#home" class="nav__link active-link">
                                 <i class='bx bx-home-alt nav__icon'></i>
                                 <span class="nav__name">Home</span>
-<p>1</p>
                             </a>
                         </li>
 
                         <li class="nav__item">
                             <a href="#about" class="nav__link">
                                 <i class='bx bx-user nav__icon'></i>
-                                <span class="nav__name">About</span>
+                                <span class="nav__name">Donasi</span>
                             </a>
                         </li>
 
                         <li class="nav__item">
                             <a href="#skills" class="nav__link">
                                 <i class='bx bx-book-alt nav__icon'></i>
-                                <span class="nav__name">Skills</span>
+                                <span class="nav__name">Galang Dana</span>
                             </a>
                         </li>
 
                         <li class="nav__item">
                             <a href="#portfolio" class="nav__link">
                                 <i class='bx bx-briefcase-alt nav__icon'></i>
-                                <span class="nav__name">Portfolio</span>
+                                <span class="nav__name">Tentang</span>
                             </a>
                         </li>
 
                         <li class="nav__item">
                             <a href="#contactme" class="nav__link">
                                 <i class='bx bx-message-square-detail nav__icon'></i>
-                                <span class="nav__name">Contactme</span>
+                                <span class="nav__name">Kontak</span>
                             </a>
                         </li>
                     </ul>
@@ -317,7 +316,32 @@ img {
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
                 <h2 class="section__title">Home</h2>
-                <p>2</p>
+                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                  <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                  </ol>
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img class="d-block w-100" src="..." alt="First slide">
+                    </div>
+                    <div class="carousel-item">
+                      <img class="d-block w-100" src="..." alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                      <img class="d-block w-100" src="..." alt="Third slide">
+                    </div>
+                  </div>
+                  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </div>
             </section>
 
             <!--=============== ABOUT ===============-->
