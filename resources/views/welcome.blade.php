@@ -275,6 +275,7 @@ img {
                             <a href="#home" class="nav__link active-link">
                                 <i class='bx bx-home-alt nav__icon'></i>
                                 <span class="nav__name">Home</span>
+<p>1</p>
                             </a>
                         </li>
 
@@ -316,6 +317,7 @@ img {
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
                 <h2 class="section__title">Home</h2>
+                <p>2</p>
             </section>
 
             <!--=============== ABOUT ===============-->
