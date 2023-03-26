@@ -261,13 +261,13 @@ img {
 }
 </style>
 
-        <title>Responsive bottom navigation</title>
+        <title>PeduliMasjid</title>
     </head>
     <body>
         <!--=============== HEADER ===============-->
         <header class="header" id="header">
             <nav class="nav container">
-                <a href="#" class="nav__logo">Marlon</a>
+                <a href="#" class="nav__logo">PeduliMasjid</a>
 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
