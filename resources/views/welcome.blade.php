@@ -262,7 +262,7 @@ img {
 }
 </style>
 
-        <title>Peduli lah Masjid</title>
+        <title>Peduli Masjid</title>
     </head>
     <body>
         <!--=============== HEADER ============mm===-->
