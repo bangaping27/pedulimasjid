@@ -366,24 +366,24 @@ img {
                       <div class="carousel-inner" role="listbox">
                         <div class="item active">
                           <img src="https://pedulimasjid.com/wp-content/uploads/2023/03/banner-utama-1.jpg" >
-                          <div class="carousel-caption">
+                          {{-- <div class="carousel-caption">
                             <h3>www.malasngoding.com</h3>
                             <p>Tutorial belajar pemrograman web, mobile dan design.</p>
-                          </div>
+                          </div> --}}
                         </div>
                         <div class="item">
                           <img src="https://pedulimasjid.com/wp-content/uploads/2023/03/banner-utama-2.jpg" >
-                          <div class="carousel-caption">
+                          {{-- <div class="carousel-caption">
                             <h3>Tutorial Bootstrap</h3>
                             <p>Belajar tutorial bootstrap dasar di www.malasngoding.com</p>
-                          </div>
+                          </div> --}}
                         </div>
                         <div class="item">
                           <img src="https://pedulimasjid.com/wp-content/uploads/2023/03/banner-utama-3.jpg" >
-                          <div class="carousel-caption">
+                          {{-- <div class="carousel-caption">
                             <h3>Tutorial Android</h3>
                             <p>Tutorial membuat aplikasi android.</p>
-                          </div>
+                          </div> --}}
                         </div>				
                       </div>
                  
