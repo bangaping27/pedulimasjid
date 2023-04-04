@@ -351,7 +351,7 @@ img {
             <section class="container section section__height" id="about">
                 <h2 class="section__title">About</h2>
                 <div class="container">		
-                  <center><h1>Membuat Carousel dengan Bootstrap | www.malasngoding.com</h1></center>
+                  {{-- <center><h1>Membuat Carousel dengan Bootstrap | www.malasngoding.com</h1></center> --}}
                   <br/>
                   <div class="col-md-8 col-md-offset-2">
                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
