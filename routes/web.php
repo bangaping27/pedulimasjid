@@ -37,3 +37,7 @@ Route::get('/dn', function () {
 Route::get('/kon', function () {
     return view('kon');
 });
+
+Route::get('/infogalangdana', function () {
+    return view('tanya.index');
+});
