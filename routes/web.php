@@ -13,10 +13,27 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+//home
 Route::get('/', function () {
     return view('welcome');
 });
 
+//tentang kami
+Route::get('/tk', function () {
+    return view('tk');
+});
+
+//galang dana
 Route::get('/gd', function () {
     return view('gd');
+});
+
+//donasi
+Route::get('/dn', function () {
+    return view('dn');
+});
+
+//kontak
+Route::get('/kon', function () {
+    return view('kon');
 });
