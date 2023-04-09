@@ -284,7 +284,7 @@ img {
                         <li class="nav__item">
                             <a href="#about" class="nav__link">
                                 <i class='bx bx-user nav__icon'></i>
-                                <span class="nav__name">Donasi</span>
+                                <span class="nav__name">Tentang kami</span>
                             </a>
                         </li>
 
