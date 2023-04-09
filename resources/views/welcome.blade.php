@@ -283,28 +283,28 @@ img {
                         </li>
 
                         <li class="nav__item">
-                            <a href="/tk" class="nav__link">
+                            <a href="#about" class="nav__link">
                                 <i class='bx bx-user nav__icon'></i>
                                 <span class="nav__name">Tentang kami</span>
                             </a>
                         </li>
 
                         <li class="nav__item">
-                            <a href="/gd" class="nav__link">
+                            <a href="campaign/registration/info" class="nav__link">
                                 <i class='bx bx-book-alt nav__icon'></i>
                                 <span class="nav__name">Galang Dana</span>
                             </a>
                         </li>
 
                         <li class="nav__item">
-                            <a href="/dn" class="nav__link">
+                            <a href="#portfolio" class="nav__link">
                                 <i class='bx bx-briefcase-alt nav__icon'></i>
-                                <span class="nav__name">Donasi</span>
+                                <span class="nav__name">Tentang</span>
                             </a>
                         </li>
 
                         <li class="nav__item">
-                            <a href="/kon" class="nav__link">
+                            <a href="#contactme" class="nav__link">
                                 <i class='bx bx-message-square-detail nav__icon'></i>
                                 <span class="nav__name">Kontak</span>
                             </a>
@@ -328,7 +328,7 @@ img {
         <br>
         <br>
         <br>    
-        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" style="width: 584px; margin-right: 50px;">
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
               <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
               <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -355,8 +355,6 @@ img {
             </button>
           </div>
         <br>
-        <br>
-        
     </center>
     
 </section>

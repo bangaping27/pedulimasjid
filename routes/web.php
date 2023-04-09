@@ -24,7 +24,7 @@ Route::get('/tk', function () {
 });
 
 //galang dana
-Route::get('/gd', function () {
+Route::get('/campaign/registration/info', function () {
     return view('gd');
 });
 
