@@ -289,7 +289,7 @@ img {
                         </li>
 
                         <li class="nav__item">
-                            <a href="#skills" class="nav__link">
+                            <a href="gd.blade.php" class="nav__link">
                                 <i class='bx bx-book-alt nav__icon'></i>
                                 <span class="nav__name">Galang Dana</span>
                             </a>
