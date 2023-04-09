@@ -296,7 +296,7 @@ img {
                         </li>
 
                         <li class="nav__item">
-                            <a href="#portfolio" class="nav__link">
+                            <a href="gd.blade.php" class="nav__link">
                                 <i class='bx bx-briefcase-alt nav__icon'></i>
                                 <span class="nav__name">Tentang</span>
                             </a>
@@ -350,7 +350,7 @@ img {
             <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
                 <h2 class="section__title">About</h2>
-                
+
             </section>
 
             <!--=============== SKILLS ===============-->
