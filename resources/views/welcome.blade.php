@@ -282,7 +282,7 @@ img {
                         </li>
 
                         <li class="nav__item">
-                            <a href="#about" class="nav__link">
+                            <a href="/tk" class="nav__link">
                                 <i class='bx bx-user nav__icon'></i>
                                 <span class="nav__name">Tentang kami</span>
                             </a>
@@ -296,14 +296,14 @@ img {
                         </li>
 
                         <li class="nav__item">
-                            <a href="#portfolio" class="nav__link">
+                            <a href="/dn" class="nav__link">
                                 <i class='bx bx-briefcase-alt nav__icon'></i>
-                                <span class="nav__name">Tentang</span>
+                                <span class="nav__name">Donasi</span>
                             </a>
                         </li>
 
                         <li class="nav__item">
-                            <a href="#contactme" class="nav__link">
+                            <a href="/kon" class="nav__link">
                                 <i class='bx bx-message-square-detail nav__icon'></i>
                                 <span class="nav__name">Kontak</span>
                             </a>
