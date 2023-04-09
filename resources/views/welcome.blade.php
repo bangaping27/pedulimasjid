@@ -296,7 +296,7 @@ img {
                         </li>
 
                         <li class="nav__item">
-                            <a href="gd.blade.php" class="nav__link">
+                            <a href="#portfolio" class="nav__link">
                                 <i class='bx bx-briefcase-alt nav__icon'></i>
                                 <span class="nav__name">Tentang</span>
                             </a>
