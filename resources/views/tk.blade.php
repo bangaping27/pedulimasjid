@@ -320,7 +320,18 @@ img {
             <section class="container section section__height" id="home">
                 <u><h5 class="section__title">Tentang Kami</h5></u>
 
-              
+                <div class="carousel-inner">
+                  <div class="carousel-item active" data-bs-interval="2000" >
+                    <img src="https://kitabisa.com/_next/image?url=https%3A%2F%2Ffirebase-kanvas.imgix.net%2Fweb_homebanner%2Fhomebanner%2Fapril%2Fkadodonasinature.jpg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26fm%3Dpjpg%26fit%3Dscale%26w%3D448%26auto%3Dcompress%2Cformat%26cs%3Dtinysrgb%26fm%3Dpjpg%26fit%3Dclip%26w%3D448%26dpr%3D2%26sharp%3D15&w=1080&q=75" class="d-block w-10" alt="...">
+                  </div>
+                  <div class="carousel-item"  data-bs-interval="2000" >
+                    <img src="https://kitabisa.com/_next/image?url=https%3A%2F%2Ffirebase-kanvas.imgix.net%2Fweb_homebanner%2Fhomebanner%2Fapril%2Famanahkorbanledakan.jpg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26fm%3Dpjpg%26fit%3Dscale%26w%3D448%26auto%3Dcompress%2Cformat%26cs%3Dtinysrgb%26fm%3Dpjpg%26fit%3Dclip%26w%3D448%26dpr%3D2%26sharp%3D15&w=1080&q=75" class="d-block w-10" alt="...">
+                  </div>
+                  <div class="carousel-item" data-bs-interval="2000" >
+                    <img src="https://kitabisa.com/_next/image?url=https%3A%2F%2Ffirebase-kanvas.imgix.net%2Fweb_homebanner%2Fhomebanner%2Fapril%2Fsemuabisamakan.png%3Fauto%3Dcompress%26cs%3Dtinysrgb%26fm%3Dpjpg%26fit%3Dscale%26w%3D448%26auto%3Dcompress%2Cformat%26cs%3Dtinysrgb%26fm%3Dpjpg%26fit%3Dclip%26w%3D448%26dpr%3D2%26sharp%3D15&w=1080&q=75" class="d-block w-10" alt="...">
+                  </div>
+                </div>
+                
             </section>
 
             {{-- <!--=============== ABOUT ===============-->
