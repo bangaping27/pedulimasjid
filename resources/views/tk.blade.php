@@ -275,7 +275,7 @@ img {
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
                         <li class="nav__item">
-                            <a href="#home" class="nav__link active-link">
+                            <a href="/" class="nav__link active-link">
                                 <i class='bx bx-home-alt nav__icon'></i>
                                 <span class="nav__name">Home</span>
                             </a>
@@ -319,7 +319,7 @@ img {
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
                 <center> <u><h5 class="section__title">Tentang Kami</h5></u> </center>
-              
+
                 <center> <img src="https://raw.githubusercontent.com/bangaping27/pedulimasjid/main/public/assets/img/tk.png"> </center>
 
             </section>
