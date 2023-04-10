@@ -318,7 +318,7 @@ img {
         <main>
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
-                <h2 class="section__title">Tentang Kami</h2>
+                <h4 class="section__title">Tentang Kami</h4>
             </section>
 
             {{-- <!--=============== ABOUT ===============-->
