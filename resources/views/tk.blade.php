@@ -321,7 +321,7 @@ img {
                 <h2 class="section__title">Tentang Kami</h2>
             </section>
 
-            <!--=============== ABOUT ===============-->
+            {{-- <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
                 <h2 class="section__title">About</h2>
 
@@ -340,7 +340,7 @@ img {
             <!--=============== CONTACTME ===============-->
             <section class="container section section__height" id="contactme">
                 <h2 class="section__title">Contactme</h2>
-            </section>
+            </section> --}}
         </main>
 
 
