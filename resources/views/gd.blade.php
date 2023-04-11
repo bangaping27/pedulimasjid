@@ -318,7 +318,7 @@ img {
         <main>
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
-                <h2 class="section__title">Galang Dana</h2><br><br>
+                <u><h2 class="section__title">Galang Dana</h2></u><br><br>
 
                 <div class="container">
                   {{-- <center> <h2>Ayuk galang dana</h2> </center> --}}
