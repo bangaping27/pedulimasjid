@@ -326,7 +326,7 @@ img {
                   <div class="card">
                     <div class="card-header"><b> Ayo Donasi </b></div><br><br>
                       <div class="mt-10">
-                        <center><a href="/campaign/registration/info/gd"><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center></a> 
+                        <center><a href="/"><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center></a> 
                       </div>
                     <div class="card-body">Berapapun dana anda kami siap menerima</div>
                 </div>
