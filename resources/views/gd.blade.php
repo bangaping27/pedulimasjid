@@ -326,7 +326,7 @@ img {
                   <div class="card">
                     <div class="card-header"><b> Buat Galang Dana </b></div><br><br>
                       <div class="mt-10">
-                        <center><button type="button" class="btn btn-primary btn-block btn-lg">Primary</button></center>
+                        <center><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center>
                       </div>
                     <div class="card-body">Berapapun dana anda kami siap menerima</div>
                 </div>
