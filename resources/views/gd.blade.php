@@ -328,7 +328,7 @@ img {
                       <div class="mt-10">
                         <center><button type="button" class="btn btn-primary btn-block btn-lg">Primary</button></center>
                       </div>
-                    <div class="card-body">Ini adalah isi dari card</div>
+                    <div class="card-body">Berapapun dana anda kami siap menerima</div>
                 </div>
 
             </section>
