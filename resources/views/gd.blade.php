@@ -327,7 +327,6 @@ img {
                     <div class="card-header">Buat Galang Dana</div><br><br>
                       <div class="mt-10">
                         <center><button type="button" class="btn btn-primary btn-block btn-lg">Primary</button></center>
-                        <button type="button" class="bg-blue-600 hover:bg-blue-700 py-2 px-4 font-medium text-white border border-transparent rounded-lg focus:outline-none w-full">Block</button>
                       </div>
                     <div class="card-body">Berapapun dana anda kami siap menerima</div>
                 </div>
