@@ -318,11 +318,11 @@ img {
         <main>
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
-                <h2 class="section__title">Galang Dana</h2>
+                <h2 class="section__title">Galang Dana</h2><br><br>
 
                 <div class="container">
                   <center> <h2>Contoh Pembuatan Card di bootstrap</h2> </center>
-                  
+
                   <div class="card">
                     <div class="card-body">Ini adalah isi dari card</div>
                 </div>
