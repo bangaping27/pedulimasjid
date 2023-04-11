@@ -322,6 +322,7 @@ img {
 
                 <div class="container">
                   <center> <h2>Contoh Pembuatan Card di bootstrap</h2> </center>
+                  
                   <div class="card">
                     <div class="card-body">Ini adalah isi dari card</div>
                 </div>
