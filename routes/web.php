@@ -43,5 +43,5 @@ Route::get('/infogalangdana', function () {
 });
 
 Route::get('/dana', function () {
-    return view('dana');
+    return view('galangdana.dana');
 });
