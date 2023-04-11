@@ -324,7 +324,7 @@ img {
                   {{-- <center> <h2>Ayuk galang dana</h2> </center> --}}
 
                   <div class="card">
-                    <div class="card-header"><b> Buat Galang Dana </b></div><br><br>
+                    <div class="card-header"><b> Ayo Donasi </b></div><br><br>
                       <div class="mt-10">
                         <center><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center>
                       </div>
