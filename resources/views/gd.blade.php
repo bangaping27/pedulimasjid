@@ -289,7 +289,7 @@ img {
                         </li>
 
                         <li class="nav__item">
-                            <a href="/gd" class="nav__link">
+                            <a href="/campaign/registration/info/gd" class="nav__link">
                                 <i class='bx bx-book-alt nav__icon'></i>
                                 <span class="nav__name">Galang Dana</span>
                             </a>
