@@ -273,7 +273,7 @@ img {
                 <a href="#" class="nav__logo">Peduli Masjid</a>
 
                 <div class="nav__menu" id="nav-menu">
-                    <a href="/campaign/registration/info"><button type="button" class="btn btn-primary btn-lg">Galang Dana Sekarang!</button></a>
+                    <a href="/campaign/registration/info/gd"><button type="button" class="btn btn-primary btn-lg">Galang Dana Sekarang!</button></a>
                 </div>
 
                 <img src="assets/img/perfil.png" alt="" class="nav__img">
