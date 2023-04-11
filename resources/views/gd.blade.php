@@ -318,7 +318,7 @@ img {
         <main>
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
-                <h2 class="section__title">Home okyayde</h2>
+                <h2 class="section__title">Galang Dana</h2>
             </section>
 
             {{-- <!--=============== ABOUT ===============-->
