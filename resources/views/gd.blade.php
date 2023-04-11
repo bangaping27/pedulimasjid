@@ -321,7 +321,7 @@ img {
                 <h2 class="section__title">Galang Dana</h2>
 
                 <div class="container">
-                  <h2>Contoh Pembuatan Card di bootstrap</h2>
+                  <center> <h2>Contoh Pembuatan Card di bootstrap</h2> </center>
                   <div class="card">
                     <div class="card-body">Ini adalah isi dari card</div>
                 </div>
