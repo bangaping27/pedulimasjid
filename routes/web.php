@@ -41,3 +41,7 @@ Route::get('/kon', function () {
 Route::get('/infogalangdana', function () {
     return view('tanya.index');
 });
+
+Route::get('/dana', function () {
+    return view('dana.index');
+});
