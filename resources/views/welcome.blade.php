@@ -271,7 +271,7 @@ img {
         <!--=============== HEADER ============mm===-->
         <header class="header" id="header">
             <nav class="nav container">
-                <a href="#" class="nav__logo">Peduli Masjid</a>
+                <a href="/" class="nav__logo">Peduli Masjid</a>
 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
