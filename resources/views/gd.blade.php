@@ -324,7 +324,7 @@ img {
                   {{-- <center> <h2>Ayuk galang dana</h2> </center> --}}
 
                   <div class="card">
-                    <div class="card-header">Buat Galang Dana</div><br><br>
+                    <div class="card-header"><b> Buat Galang Dana </b></div><br><br>
                       <div class="mt-10">
                         <center><button type="button" class="btn btn-primary btn-block btn-lg">Primary</button></center>
                       </div>
