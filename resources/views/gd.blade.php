@@ -325,6 +325,9 @@ img {
 
                   <div class="card">
                     <div class="card-header">Buat Galang Dana</div>
+                      <div class="mt-10">
+                        <button type="button" class="btn btn-primary btn-block btn-lg">Primary</button>
+                      </div>
                     <div class="card-body">Ini adalah isi dari card</div>
                 </div>
 
