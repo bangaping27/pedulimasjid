@@ -321,9 +321,10 @@ img {
                 <h2 class="section__title">Galang Dana</h2><br><br>
 
                 <div class="container">
-                  <center> <h2>Ayuk galang dana</h2> </center>
+                  {{-- <center> <h2>Ayuk galang dana</h2> </center> --}}
 
                   <div class="card">
+                    <div class="card-header">Buat Galang Dana</div>
                     <div class="card-body">Ini adalah isi dari card</div>
                 </div>
 
