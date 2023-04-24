@@ -24,7 +24,7 @@ Route::get('/tk', function () {
 });
 
 //galang dana
-Route::get('/campaign/registration/info', function () {
+Route::get('/campaign/registration/info/gd', function () {
     return view('gd');
 });
 
@@ -40,4 +40,8 @@ Route::get('/kon', function () {
 
 Route::get('/infogalangdana', function () {
     return view('tanya.index');
+});
+
+Route::get('/dana', function () {
+    return view('galangdana.dana');
 });

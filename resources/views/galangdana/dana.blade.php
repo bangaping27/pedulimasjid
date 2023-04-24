@@ -273,42 +273,7 @@ img {
                 <a href="#" class="nav__logo">Peduli Masjid</a>
 
                 <div class="nav__menu" id="nav-menu">
-                    <ul class="nav__list">
-                        <li class="nav__item">
-                            <a href="/" class="nav__link active-link">
-                                <i class='bx bx-home-alt nav__icon'></i>
-                                <span class="nav__name">Home</span>
-                            </a>
-                        </li>
-
-                        <li class="nav__item">
-                            <a href="/tk" class="nav__link">
-                                <i class='bx bx-user nav__icon'></i>
-                                <span class="nav__name">Tentang kami</span>
-                            </a>
-                        </li>
-
-                        <li class="nav__item">
-                            <a href="/campaign/registration/info/gd" class="nav__link">
-                                <i class='bx bx-book-alt nav__icon'></i>
-                                <span class="nav__name">Galang Dana</span>
-                            </a>
-                        </li>
-
-                        <li class="nav__item">
-                            <a href="/dn" class="nav__link">
-                                <i class='bx bx-briefcase-alt nav__icon'></i>
-                                <span class="nav__name">Donasi</span>
-                            </a>
-                        </li>
-
-                        <li class="nav__item">
-                            <a href="/kon" class="nav__link">
-                                <i class='bx bx-message-square-detail nav__icon'></i>
-                                <span class="nav__name">Kontak</span>
-                            </a>
-                        </li>
-                    </ul>
+                    <a href="/campaign/registration/info/gd"><button type="button" class="btn btn-primary btn-lg">Galang Dana Sekarang!</button></a>
                 </div>
 
                 <img src="assets/img/perfil.png" alt="" class="nav__img">
@@ -318,21 +283,33 @@ img {
         <main>
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
-                <center> <u><h5 class="section__title">Tentang Kami</h5></u> </center>
-
-                <center> <img src="https://raw.githubusercontent.com/bangaping27/pedulimasjid/main/public/assets/img/tk.png"> </center>
-
+                <h2 class="section__title">Hai! Apakah ini pertama kalinya kamu menggalang dana di Pedulimasjid?</h2>
+                <center>
+                    <a href="#kenalan" class="nav__link">
+                        <button type="button" class="btn btn-primary btn-lg">Iya, kasih tau cara kerjanya dong</button>
+                    </a>
+                    <a href="#kenalan"></a> </a>
+                    <br>
+                    <a href="#tips" class="nav__link">
+                        <button type="button" class="btn btn-primary btn-lg">Sudah galang dana, mau cari tips</button>
+                    </a>
+                    <a href="#tips"></a> </a>
+                </center>
             </section>
 
-            {{-- <!--=============== ABOUT ===============-->
+            <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
                 <h2 class="section__title">About</h2>
 
             </section>
 
             <!--=============== SKILLS ===============-->
-            <section class="container section section__height" id="skills">
-                <h2 class="section__title">Skills</h2>
+            <section class="container section section__height" id="kenalan">
+                <h2 class="section__title">Kenalan dulu sama galang dana di PeduliMasjid</h2>
+                <p>Sejak 2013, Kitabisa sudah jadi jembatan  jutaan #OrangBaik yang mau kumpulkan donasi untuk kegiatan sosial maupun bantuan biaya pengobatan</p>
+
+                <ul><li aria-level="1"><strong>100.000++</strong> galang dana untuk kanker, leukemia, beasiswa pendidikan, pembangunan masjid, hingga bangun jembatan telah sukses terbuat</li><li aria-level="1"><span style="font-weight: 400;">Punya izin dari </span><b>Kemensos</b><span style="font-weight: 400;">, </span><b>Baznas</b><span style="font-weight: 400;">, </span><b>Kominfo</b><span style="font-weight: 400;">, dan lainnya</span></li><li aria-level="1"><span style="font-weight: 400;">Telah <strong>membantu</strong> NGO, yayasan, lembaga sosial, hingga galang dana individual di <strong>34 provinsi di Indonesia</strong></span></li></ul>
+                
             </section>
 
             <!--=============== PORTFOLIO ===============-->
@@ -341,9 +318,10 @@ img {
             </section>
 
             <!--=============== CONTACTME ===============-->
-            <section class="container section section__height" id="contactme">
-                <h2 class="section__title">Contactme</h2>
-            </section> --}}
+            <section class="container section section__height" id="tips">
+                <h2 class="section__title">Biar makin maksimal, ada tips dan video panduan yang bisa kamu cek nih!</h2>
+
+            </section>
         </main>
 
 

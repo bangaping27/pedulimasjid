@@ -271,7 +271,7 @@ img {
         <!--=============== HEADER ============mm===-->
         <header class="header" id="header">
             <nav class="nav container">
-                <a href="#" class="nav__logo">Peduli Masjid</a>
+                <a href="/" class="nav__logo">Peduli Masjid</a>
 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
@@ -283,14 +283,14 @@ img {
                         </li>
 
                         <li class="nav__item">
-                            <a href="#about" class="nav__link">
+                            <a href="/tk" class="nav__link">
                                 <i class='bx bx-user nav__icon'></i>
                                 <span class="nav__name">Tentang kami</span>
                             </a>
                         </li>
 
                         <li class="nav__item">
-                            <a href="campaign/registration/info" class="nav__link">
+                            <a href="/campaign/registration/info/gd" class="nav__link">
                                 <i class='bx bx-book-alt nav__icon'></i>
                                 <span class="nav__name">Galang Dana</span>
                             </a>
