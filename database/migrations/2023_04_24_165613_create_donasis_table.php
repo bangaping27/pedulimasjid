@@ -11,12 +11,13 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('users', function (Blueprint $table) {
+        Schema::create('donasis', function (Blueprint $table) {
             $table->id();
-            $table->string('nama_user');
-            $table->string('username')->unique();
-            $table->string('email')->unique();
-            $table->string('password');
+            $table->unsignedBigInteger('id_donatur');
+            $table->foreign('id_donatur')->references('id')->on('donaturs');
+            $table->date('tanggal_donasi');
+            $table->decimal('jumlah_donasi', 10, 2);
+            $table->string('metode_pembayaran');
             $table->timestamps();
         });
     }
@@ -26,6 +27,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('users');
+        Schema::dropIfExists('donasis');
     }
 };

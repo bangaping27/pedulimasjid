@@ -11,12 +11,11 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('users', function (Blueprint $table) {
+        Schema::create('proyek_masjids', function (Blueprint $table) {
             $table->id();
-            $table->string('nama_user');
-            $table->string('username')->unique();
-            $table->string('email')->unique();
-            $table->string('password');
+            $table->string('nama_proyek');
+            $table->text('deskripsi_proyek');
+            $table->decimal('target_donasi', 10, 2);
             $table->timestamps();
         });
     }
@@ -26,6 +25,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('users');
+        Schema::dropIfExists('proyek_masjids');
     }
 };
