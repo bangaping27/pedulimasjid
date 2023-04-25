@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -264,79 +264,68 @@ img {
 }
 </style>
 
-        <title>DANA</title>
+        <title>Peduli Masjid</title>
     </head>
     <body>
-      <div class="bradcam_area breadcam_bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="bradcam_text text-center">
-                        <h3>Donasi</h3>
-                    </div>
+        <!--=============== HEADER ============mm===-->
+        <header class="header" id="header">
+            <nav class="nav container">
+                <a href="#" class="nav__logo">Peduli Masjid</a>
+
+                <div class="nav__menu" id="nav-menu">
+                    <a href="/campaign/registration/info/gd"><button type="button" class="btn btn-primary btn-lg">Galang Dana Sekarang!</button></a>
                 </div>
-            </div>
-        </div>
-    </div>
-    <!-- bradcam_area_end -->
 
-<!-- ================ contact section start ================= -->
-    <section class="contact-section">
-            <div class="container">  
-            <p class="sample-text">
-				<b>Peduli Masjid</b> telah berhasil mengumpulkan total zakat sekitar Rp. dan telah disalurkan ke pihak-pihak yang membutuhkan. Berikut adalah rinciannya
+                <img src="assets/img/perfil.png" alt="" class="nav__img">
+            </nav>
+        </header>
 
-			</p>
-				<br>
+        <main>
+            <!--=============== HOME ===============-->
+            <section class="container section section__height" id="home">
+                <h2 class="section__title">Hai! Apakah ini pertama kalinya kamu menggalang dana di Pedulimasjid?</h2>
+                <center>
+                    <a href="#kenalan" class="nav__link">
+                        <button type="button" class="btn btn-primary btn-lg">Iya, kasih tau cara kerjanya dong</button>
+                    </a>
+                    <a href="#kenalan"></a> </a>
+                    <br>
+                    <a href="#tips" class="nav__link">
+                        <button type="button" class="btn btn-primary btn-lg">Sudah galang dana, mau cari tips</button>
+                    </a>
+                    <a href="#tips"></a> </a>
+                </center>
+            </section>
 
-				<p>
-				Jika anda berminat untuk menyalurkan zakat anda, silahkan isi formulir dibawah ini.
-				</p>
-                <div class="row">
-                    <div class="col-12">
-                        <h2 class="contact-title">Donasi Sekarang !</h2>
-                    </div>
-                    <div class="col-lg-12">
-                        <form class="form-contact contact_form" action="#" method="POST" enctype="multipart/form-data">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="form-group">
-                                        <input class="form-control valid" name="nama_donatur" placeholder="Masukkan Nama Anda" required="">
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="form-group">
-                                        <input class="form-control valid" name="no_hp_donatur"placeholder="Masukkan No. Handphone Anda" required="" type="text">
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="form-group">
-                                        <input class="form-control valid" name="alamat_donatur"placeholder="Masukkan Alamat Anda" required="" type="text">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <input class="form-control" name="total_donasi" placeholder="Jumlah Donasi Yang Anda Ingin Berikan. Contoh: 100000" type="number">
-                                    </div>
-                                </div>
+            <!--=============== ABOUT ===============-->
+            <section class="container section section__height" id="about">
+                <h2 class="section__title">About</h2>
 
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        Bukti Pengiriman Donasi
-                                        <input type="file" class="form-control w-100" name="foto" required=""></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="form-group mt-3">
-                                <button type="submit" class="button button-contactForm boxed-btn">Kirim Donasi</button>
-                            </div>
-                        </form>
-                    </div>
+            </section>
 
-                </div>
-            </div>
-        </section>
-    <!-- ================ contact section end ================= -->
+            <!--=============== SKILLS ===============-->
+            <section class="container section section__height" id="kenalan">
+                <h2 class="section__title">Kenalan dulu sama galang dana di PeduliMasjid</h2>
+                <p>Sejak 2013, Kitabisa sudah jadi jembatan  jutaan #OrangBaik yang mau kumpulkan donasi untuk kegiatan sosial maupun bantuan biaya pengobatan</p>
+
+                <ul><li aria-level="1"><strong>100.000++</strong> galang dana untuk kanker, leukemia, beasiswa pendidikan, pembangunan masjid, hingga bangun jembatan telah sukses terbuat</li><li aria-level="1"><span style="font-weight: 400;">Punya izin dari </span><b>Kemensos</b><span style="font-weight: 400;">, </span><b>Baznas</b><span style="font-weight: 400;">, </span><b>Kominfo</b><span style="font-weight: 400;">, dan lainnya</span></li><li aria-level="1"><span style="font-weight: 400;">Telah <strong>membantu</strong> NGO, yayasan, lembaga sosial, hingga galang dana individual di <strong>34 provinsi di Indonesia</strong></span></li></ul>
+                
+            </section>
+
+            <!--=============== PORTFOLIO ===============-->
+            <section class="container section section__height" id="portfolio">
+                <h2 class="section__title">Portfolio</h2>
+            </section>
+
+            <!--=============== CONTACTME ===============-->
+            <section class="container section section__height" id="tips">
+                <h2 class="section__title">Biar makin maksimal, ada tips dan video panduan yang bisa kamu cek nih!</h2>
+
+            </section>
+        </main>
+
+
+        <!--=============== MAIN JS ===============-->
+        <script src="assets/js/main.js"></script>
     </body>
-</html> 
-
+</html>
