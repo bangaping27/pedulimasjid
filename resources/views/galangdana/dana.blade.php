@@ -351,30 +351,6 @@ img {
   <b>Zakatin</b> telah berhasil mengumpulkan total zakat sekitar Rp. dan telah disalurkan ke pihak-pihak yang membutuhkan. Berikut adalah rinciannya
 
 </p>
-<div class="section-top-border">
-  <div class="progress-table-wrap">
-    <div class="progress-table">
-      <div class="table-head">
-        <div class="serial">#</div>
-        <div class="country">Mesjid</div>
-        <div class="percentage">Total Zakat Beras</div>
-        <div class="percentage">Total Zakat Uang</div>
-      </div>
-      <?php 
-      $no=1;
-      foreach ($data['mesjid'] as $dt) : ?>
-      <div class="table-row">
-        <div class="serial"><?= $no++;?></div>
-        <div class="country"><?= $dt['nama_mesjid'];?></div>
-        <div class="percentage"><?= $dt['total_beras'];?> Kg 
-                      </div>  
-                      <div class="percentage">Rp. <?= number_format($dt['total_uang']);?> 
-        </div>
-        <!-- <div class="percentage"><?= $dt['total_penerima'];?></div> -->
-      </div>
-      <?php endforeach;?>
-    </div>
-  </div>
   <br>
 
   <p>
