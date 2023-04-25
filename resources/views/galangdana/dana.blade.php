@@ -283,7 +283,7 @@ img {
         <main>
             <!--=============== HOME ===============-->
             <section class="container section section__height" id="home">
-                <h2 class="section__title">Hai! Apakah ini pertama kalinya kamu menggalang dana di Pedulimasjid?</h2>
+                <h2 class="section__title"><b>Peduli Masjid</b> telah berhasil mengumpulkan total zakat sekitar Rp. dan telah disalurkan ke pihak-pihak yang membutuhkan. Berikut adalah rinciannya</h2>
                 <center>
                     <a href="#kenalan" class="nav__link">
                         <button type="button" class="btn btn-primary btn-lg">Iya, kasih tau cara kerjanya dong</button>
