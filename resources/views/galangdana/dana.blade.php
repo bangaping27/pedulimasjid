@@ -264,7 +264,7 @@ img {
 }
 </style>
 
-        <title>Peduli Masjid</title>
+        <title>DANA</title>
     </head>
     <body>
         <!--=============== HEADER ============mm===-->
