@@ -284,7 +284,7 @@ img {
     <section class="contact-section">
             <div class="container">  
             <p class="sample-text">
-				<b>Zakatin</b> telah berhasil mengumpulkan total zakat sekitar Rp. dan telah disalurkan ke pihak-pihak yang membutuhkan. Berikut adalah rinciannya
+				<b>Peduli Masjid</b> telah berhasil mengumpulkan total zakat sekitar Rp. dan telah disalurkan ke pihak-pihak yang membutuhkan. Berikut adalah rinciannya
 
 			</p>
 				<br>
