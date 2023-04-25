@@ -297,31 +297,10 @@ img {
                 </center>
             </section>
 
-            <!--=============== ABOUT ===============-->
-            <section class="container section section__height" id="about">
-                <h2 class="section__title">About</h2>
-
-            </section>
-
-            <!--=============== SKILLS ===============-->
-            <section class="container section section__height" id="kenalan">
-                <h2 class="section__title">Kenalan dulu sama galang dana di PeduliMasjid</h2>
-                <p>Sejak 2013, Kitabisa sudah jadi jembatan  jutaan #OrangBaik yang mau kumpulkan donasi untuk kegiatan sosial maupun bantuan biaya pengobatan</p>
-
-                <ul><li aria-level="1"><strong>100.000++</strong> galang dana untuk kanker, leukemia, beasiswa pendidikan, pembangunan masjid, hingga bangun jembatan telah sukses terbuat</li><li aria-level="1"><span style="font-weight: 400;">Punya izin dari </span><b>Kemensos</b><span style="font-weight: 400;">, </span><b>Baznas</b><span style="font-weight: 400;">, </span><b>Kominfo</b><span style="font-weight: 400;">, dan lainnya</span></li><li aria-level="1"><span style="font-weight: 400;">Telah <strong>membantu</strong> NGO, yayasan, lembaga sosial, hingga galang dana individual di <strong>34 provinsi di Indonesia</strong></span></li></ul>
-                
-            </section>
-
-            <!--=============== PORTFOLIO ===============-->
-            <section class="container section section__height" id="portfolio">
-                <h2 class="section__title">Portfolio</h2>
-            </section>
-
-            <!--=============== CONTACTME ===============-->
-            <section class="container section section__height" id="tips">
-                <h2 class="section__title">Biar makin maksimal, ada tips dan video panduan yang bisa kamu cek nih!</h2>
-
-            </section>
+            <p>
+              Jika anda berminat untuk menyalurkan zakat anda, silahkan isi formulir dibawah ini.
+            </p>
+            
         </main>
 
 
