@@ -306,7 +306,7 @@ img {
                   <h2 class="contact-title">Donasi Sekarang !</h2>
               </div>
               <div class="col-lg-12">
-                  <form class="form-contact contact_form" action="<?= BASEURL; ?>/Web/aksi_tambah_donasi" method="POST" enctype="multipart/form-data">
+                  <form class="form-contact contact_form" action="#" method="POST" enctype="multipart/form-data">
                       <div class="row">
                           <div class="col-sm-4">
                               <div class="form-group">
