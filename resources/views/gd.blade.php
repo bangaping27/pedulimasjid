@@ -336,7 +336,7 @@ img {
 
              <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
-                <h2 class="section__title">About</h2>
+                
                 <div class="card">
                   <header class="card-header">
                     <p>May 3rd 2023</p>
