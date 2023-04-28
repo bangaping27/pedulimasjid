@@ -447,6 +447,21 @@ img {
                 </div>
             </section>
 
+            <section class="container section section__height" id="home">
+              <u><h2 class="section__title">Galang Dana</h2></u><br><br>
+
+              <div class="container">
+                {{-- <center> <h2>Ayuk galang dana</h2> </center> --}}
+
+                <div class="card">
+                  <div class="card-header"><b> Ayo Donasi </b></div><br><br>
+                    <div class="mt-10">
+                      <center><a href="/dana"><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center></a> 
+                    </div>
+                  <div class="card-body">Berapapun dana anda kami siap menerima</div>
+              </div>
+          </section>
+
             {{-- <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
                 
