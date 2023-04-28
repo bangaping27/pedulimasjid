@@ -447,7 +447,7 @@ img {
                 </div>
             </section>
 
-             <!--=============== ABOUT ===============-->
+            {{-- <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
                 
                 <div class="card">
@@ -475,7 +475,7 @@ img {
 
             </section>
 
-           {{-- <!--=============== SKILLS ===============-->
+            <!--=============== SKILLS ===============-->
             <section class="container section section__height" id="skills">
                 <h2 class="section__title">Skills</h2>
             </section>
