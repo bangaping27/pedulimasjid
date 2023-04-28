@@ -508,6 +508,16 @@ button {
                       </div>
                     <div class="card-body">Berapapun dana anda kami siap menerima</div>
                 </div>
+                <div class="card">
+                  <div class="content">
+                    <div class="title">Personal edition</div>
+                    <div class="price">$39.99</div>
+                    <div class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at posuere eros. Interdum et malesuada fames ac ante ipsum primis in faucibus.</div>
+                  </div>
+                    <button>
+                      Buy now
+                    </button>
+              </div>
             </section>
 
             {{-- <!--=============== ABOUT ===============-->
