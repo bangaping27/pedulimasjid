@@ -510,22 +510,6 @@ button {
 
              <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
-                
-              <div class="card">
-                <div class="card-header"><b> Ayo1 </b></div><br><br>
-                  <div class="mt-10">
-                    <center><a href="/dana"><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center></a> 
-                  </div>
-                <div class="card-body">Berapapun dana anda kami siap menerima</div>
-              </div>
-
-              <div class="card">
-                <div class="card-header"><b> Ayo2 </b></div><br><br>
-                  <div class="mt-10">
-                    <center><a href="/dana"><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center></a> 
-                  </div>
-                <div class="card-body">Berapapun dana anda kami siap menerima</div>
-              </div>
 
             </section>
 
