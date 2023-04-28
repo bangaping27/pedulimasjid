@@ -330,7 +330,6 @@ img {
                       </div>
                     <div class="card-body">Berapapun dana anda kami siap menerima</div>
                 </div>
-
             </section>
 
             {{-- <!--=============== ABOUT ===============-->
