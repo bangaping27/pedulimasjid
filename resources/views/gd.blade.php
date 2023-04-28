@@ -264,7 +264,7 @@ img {
 }
 
 /* Untuk card */
-/* .card {
+.card {
   display: flex;
   position: relative;
   flex-direction: column;
@@ -375,10 +375,10 @@ img {
   box-decoration-break: clone;
   background-clip: text;
   border-color: white;
-} */
+} 
 
 /*  Card 2 */
-.card {
+/* .card {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -436,9 +436,7 @@ button {
   border-radius: 0.5rem;
   width: 90%;
   text-shadow: 0px 4px 18px #2c3442;
-}
-
-
+} */
 
 </style>
 
