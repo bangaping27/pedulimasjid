@@ -262,6 +262,8 @@ img {
     margin-right: auto;
   }
 }
+
+
 </style>
 
         <title>Peduli Masjid</title>
@@ -332,13 +334,35 @@ img {
                 </div>
             </section>
 
-            {{-- <!--=============== ABOUT ===============-->
+             <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
                 <h2 class="section__title">About</h2>
+                <div class="card">
+                  <header class="card-header">
+                    <p>May 3rd 2023</p>
+                    <span class="title">A Tale of Two Divs</span>
+                  </header>
+                  <div class="card-author">
+                    <a class="author-avatar" href="#">
+                      <span>
+                    </span></a>
+                    <svg class="half-circle" viewBox="0 0 106 57">
+                      <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
+                    </svg>
+                    <div class="author-name">
+                      <div class="author-name-prefix">Author</div> Folarin Lawal
+                      </div>
+                    </div>
+                    <div class="tags">
+                      <a href="#">html</a>
+                      <a href="#">css</a>
+                      <a href="#">web-dev</a>
+                    </div>
+                  </div>
 
             </section>
 
-            <!--=============== SKILLS ===============-->
+           {{-- <!--=============== SKILLS ===============-->
             <section class="container section section__height" id="skills">
                 <h2 class="section__title">Skills</h2>
             </section>
