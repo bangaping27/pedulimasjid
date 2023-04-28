@@ -263,6 +263,7 @@ img {
   }
 }
 
+/* Untuk card */
 
 </style>
 
