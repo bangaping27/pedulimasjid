@@ -510,35 +510,28 @@ button {
                 </div>
             </section>
 
-            {{-- <!--=============== ABOUT ===============-->
+             <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
                 
-                <div class="card">
-                  <header class="card-header">
-                    <p>May 3rd 2023</p>
-                    <span class="title">A Tale of Two Divs</span>
-                  </header>
-                  <div class="card-author">
-                    <a class="author-avatar" href="#">
-                      <span>
-                    </span></a>
-                    <svg class="half-circle" viewBox="0 0 106 57">
-                      <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
-                    </svg>
-                    <div class="author-name">
-                      <div class="author-name-prefix">Author</div> Folarin Lawal
-                      </div>
-                    </div>
-                    <div class="tags">
-                      <a href="#">html</a>
-                      <a href="#">css</a>
-                      <a href="#">web-dev</a>
-                    </div>
+              <div class="card">
+                <div class="card-header"><b> Ayo1 </b></div><br><br>
+                  <div class="mt-10">
+                    <center><a href="/dana"><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center></a> 
                   </div>
+                <div class="card-body">Berapapun dana anda kami siap menerima</div>
+              </div>
+
+              <div class="card">
+                <div class="card-header"><b> Ayo2 </b></div><br><br>
+                  <div class="mt-10">
+                    <center><a href="/dana"><button type="button" class="btn btn-primary btn-block btn-lg">Donasi Sekarang</button></center></a> 
+                  </div>
+                <div class="card-body">Berapapun dana anda kami siap menerima</div>
+              </div>
 
             </section>
 
-            <!--=============== SKILLS ===============-->
+            {{-- <!--=============== SKILLS ===============-->
             <section class="container section section__height" id="skills">
                 <h2 class="section__title">Skills</h2>
             </section>
