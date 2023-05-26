@@ -18,7 +18,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-//tentang kami
+//tentang kamiiiii
 Route::get('/tk', function () {
     return view('tk');
 });
