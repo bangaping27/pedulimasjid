@@ -350,6 +350,7 @@ img {
             <!--=============== ABOUT ===============-->
             <section class="container section section__height" id="about">
                 <h2 class="section__title">About</h2>
+                <center> <img src="https://raw.githubusercontent.com/bangaping27/pedulimasjid/main/public/assets/img/poster.png"> </center>
 
             </section>
 
