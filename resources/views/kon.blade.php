@@ -369,7 +369,8 @@ img {
             <!--=============== CONTACTME ===============-->
             <section class="container section section__height" id="contactme">
                 <h2 class="section__title">Contact Us</h2>
-                
+                <center> <img src="https://raw.githubusercontent.com/bangaping27/pedulimasjid/main/public/assets/img/contact.png"> </center>
+
             </section>
         </main>
 
