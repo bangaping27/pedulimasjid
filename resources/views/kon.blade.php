@@ -358,6 +358,7 @@ img {
             <section class="container section section__height" id="skills">
                 <h2 class="section__title">Skills</h2>
                 <center> <img src="https://raw.githubusercontent.com/bangaping27/pedulimasjid/main/public/assets/img/skill.png"> </center>
+                
             </section>
 
             <!--=============== PORTFOLIO ===============-->
