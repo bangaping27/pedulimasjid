@@ -361,11 +361,6 @@ img {
 
             </section>
 
-            <!--=============== PORTFOLIO ===============-->
-            <section class="container section section__height" id="portfolio">
-                <h2 class="section__title">Portfolio</h2>
-            </section>
-
             <!--=============== CONTACTME ===============-->
             <section class="container section section__height" id="contactme">
                 <h2 class="section__title">Contact Us</h2>
